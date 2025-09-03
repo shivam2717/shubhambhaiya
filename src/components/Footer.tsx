@@ -60,7 +60,7 @@ const Footer = () => {
         <div className="mt-8 text-center">
           <p className="text-sm text-gray-400">
            Made with ❤️ by SHIVAM KUMAR MISHRA
-            <Heart className="w-4 h-4 inline text-pink-400" /> for our teachers.
+            <Heart className="w-4 h-4 inline text-pink-400" /> for you.
           </p>
         </div>
       </div>
