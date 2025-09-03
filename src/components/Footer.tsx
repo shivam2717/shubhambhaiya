@@ -19,7 +19,7 @@ const Footer = () => {
           <p className="text-xl text-gray-300 mb-8">
             Dr. B. C. Roy Engineering College
           </p>
-
+        </div>
 
         {/* Closing Message */}
         <div className="glass-card rounded-2xl p-8 md:p-12 text-center animate-fade-in-up delay-400">
