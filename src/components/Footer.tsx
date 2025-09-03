@@ -20,25 +20,7 @@ const Footer = () => {
             Dr. B. C. Roy Engineering College
           </p>
 
-          {/* Contact Information */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
-            <div className="glass-card rounded-xl p-6 hover:scale-105 transition-all duration-300">
-              <MapPin className="w-6 h-6 text-cyan-400 mx-auto mb-3" />
-              <p className="text-gray-300 text-sm">Campus Location</p>
-              <p className="text-white font-medium">BCREC, Durgapur</p>
-            </div>
-            
-            <div className="glass-card rounded-xl p-6 hover:scale-105 transition-all duration-300">
-              <Mail className="w-6 h-6 text-purple-400 mx-auto mb-3" />
-              <p className="text-gray-300 text-sm">Department Email</p>
-              <p className="text-white font-medium">ece@bcrec.edu.in</p>
-            </div>
-            
-            <div className="glass-card rounded-xl p-6 hover:scale-105 transition-all duration-300">
-              <Phone className="w-6 h-6 text-pink-400 mx-auto mb-3" />
-              <p className="text-gray-300 text-sm">Contact</p>
-              <p className="text-white font-medium">+91 XXX XXX XXXX</p>
-            </div>
+         
           </div>
         </div>
 
@@ -80,7 +62,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="mt-8 text-center">
           <p className="text-sm text-gray-400">
-            © 2025 ECE Department, Dr. B. C. Roy Engineering College. Made with{' '}
+           Made with ❤️ by SHIVAM KUMAR MISHRA
             <Heart className="w-4 h-4 inline text-pink-400" /> for our teachers.
           </p>
         </div>
